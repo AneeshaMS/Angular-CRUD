@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "Waffa",
+      "lastname": "Thomson",
+      "email": "waffa123@gmail.com",
+      "mobile": "0987654321",
+      "salary": "30000"
+    },
+    {
+      "id": 3,
+      "firstname": "Appu",
+      "lastname": "Kuttan",
+      "email": "appuktn@gmail.com",
+      "mobile": "0987654342",
+      "salary": "98777"
+    },
+    {
+      "id": 5,
+      "firstname": "Alex",
+      "lastname": "Pandian",
+      "email": "alex@gmail.com",
+      "mobile": "0980980989",
+      "salary": "80000"
+    },
+    {
+      "id": 6,
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "johndoe@gmail.com",
+      "mobile": "1234567890",
+      "salary": "90000"
+    },
+    {
+      "id": 7,
+      "firstname": "Albert",
+      "lastname": "Einstein",
+      "email": "albert@gmail.com",
+      "mobile": "9807654321",
+      "salary": "780000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
